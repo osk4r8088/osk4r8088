@@ -3,3 +3,5 @@
 ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
 ![Cisco](https://img.shields.io/badge/Cisco-blue?style=for-the-badge&logo=cisco)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
