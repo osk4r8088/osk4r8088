@@ -1,12 +1,3 @@
-![Profile Views](https://komarev.com/ghpvc/?username=osk4r8088&style=for-the-badge)
-
-![Followers](https://img.shields.io/github/followers/osk4r8088?style=for-the-badge)
-
-![Stars](https://img.shields.io/github/stars/osk4r8088?style=for-the-badge)
-
-
-
-
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
 ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
 ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
