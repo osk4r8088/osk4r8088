@@ -1,6 +1,7 @@
-![Stats](https://github-readme-stats.vercel.app/api?username=osk4r8088&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=osk4r8088&show_icons=true&cache_seconds=21600)
 
-![Visitors](https://komarev.com/ghpvc/?username=osk4r8088)
+![Streak](https://streak-stats.demolab.com?user=osk4r8088&cache_seconds=21600)
+
 
 
 
