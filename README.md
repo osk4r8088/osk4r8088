@@ -6,4 +6,4 @@
   </a>
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=osk4r8088&theme=dark&hide_border=true&background=1F222E&ring=FB8500&fire=FB8500&currStreakLabel=FB8500)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=osk4r8088&show_icons=true&theme=dark&hide_border=true&bg_color=1F222E&title_color=FB8500&icon_color=FB8500&text_color=FFFFFF)
