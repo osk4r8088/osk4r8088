@@ -6,4 +6,13 @@
   </a>
 </p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=osk4r8088&show_icons=true&theme=dark&hide_border=true&bg_color=1F222E&title_color=FB8500&icon_color=FB8500&text_color=FFFFFF)
+## Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=osk4r8088&theme=monokai" alt="Profile Summary"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=osk4r8088&theme=monokai" alt="Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=osk4r8088&theme=monokai" alt="Productive Time"/>
+</p>
