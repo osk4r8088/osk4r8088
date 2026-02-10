@@ -12,9 +12,4 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=osk4r8088&theme=monokai" alt="Profile Summary"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=osk4r8088&theme=monokai" alt="Stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=osk4r8088&theme=monokai" alt="Productive Time"/>
-</p>
-
 ![Profile Views](https://komarev.com/ghpvc/?username=osk4r8088&color=FB8500&style=flat-square&label=Profile+Views)
