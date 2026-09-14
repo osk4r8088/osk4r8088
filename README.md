@@ -1,4 +1,4 @@
-## Languages & Tools
+## Stuff I'm quite comfortable with or regularly use 
 
 ### Languages
 <p align="center">
