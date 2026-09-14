@@ -31,7 +31,7 @@
 ### Tools & Other
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vscode,obsidian,powershell,ps,blender,raspberrypi,unity" />
+    <img src="https://skillicons.dev/icons?i=git,vscode,obsidian,powershell,ps,blender,raspberrypi,unity,postgres,mysql" />
   </a>
 </p>
 
