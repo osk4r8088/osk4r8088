@@ -10,14 +10,14 @@
 ### Frameworks & Libraries
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,vue,nextjs" />
+    <img src="https://skillicons.dev/icons?i=react,vue,nextjs,django,nodejs,tailwind,vite" />
   </a>
 </p>
 
 ### DevOps & Infrastructure
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,nginx,redis,prometheus,grafana" />
+    <img src="https://skillicons.dev/icons?i=docker,nginx,redis,prometheus,grafana,ansible,cloudflare" />
   </a>
 </p>
 
@@ -31,7 +31,14 @@
 ### Tools & Other
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vscode,obsidian,powershell,ps,blender,postgres,raspberrypi" />
+    <img src="https://skillicons.dev/icons?i=git,vscode,obsidian,powershell,ps,blender,raspberrypi,unity" />
+  </a>
+</p>
+
+### Databases
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mysql" />
   </a>
 </p>
 
