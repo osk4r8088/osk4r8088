@@ -1,37 +1,9 @@
-## Tools & Experiences
 
-### Languages
+
+## Tools & Experiences, Stuff im working with
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,go" />
-  </a>
-</p>
-
-### Frameworks & Libraries
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,vue,nextjs,django,nodejs,tailwind,vite" />
-  </a>
-</p>
-
-### DevOps & Infrastructure
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,nginx,redis,prometheus,grafana,ansible,cloudflare" />
-  </a>
-</p>
-
-### Operating Systems
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,ubuntu,redhat,windows" />
-  </a>
-</p>
-
-### Tools & Other
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vscode,obsidian,powershell,ps,blender,raspberrypi,unity,postgres,mysql" />
+    <img src="https://skillicons.dev/icons?i=react,vue,nextjs,django,nodejs,tailwind,vite,docker,nginx,redis,prometheus,grafana,ansible,cloudflare,linux,ubuntu,redhat,windows,vscode,obsidian,powershell,ps,blender,raspberrypi,unity,postgres,mysql" />
   </a>
 </p>
 
