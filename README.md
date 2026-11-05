@@ -3,7 +3,7 @@
 ## Tools & Experiences, Stuff im working with
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,vue,nextjs,django,nodejs,tailwind,vite,docker,nginx,redis,prometheus,grafana,ansible,cloudflare,linux,ubuntu,redhat,windows,vscode,obsidian,powershell,ps,blender,raspberrypi,unity,postgres,mysql" />
+    <img src="https://skillicons.dev/icons?i=react,vue,nextjs,django,nodejs,tailwind,vite,docker,nginx,redis,prometheus,grafana,ansible,cloudflare,ubuntu,redhat,windows,vscode,obsidian,powershell,ps,blender,raspberrypi,unity,postgres,mysql" />
   </a>
 </p>
 
