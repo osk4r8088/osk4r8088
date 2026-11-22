@@ -3,7 +3,7 @@
 ## Tools, experiences, stuff im working with
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,vue,nextjs,django,nodejs,tailwind,vite,docker,nginx,redis,ansible,ubuntu,redhat,obsidian,ps,blender" />
+    <img src="https://skillicons.dev/icons?i=react,vue,nextjs,django,nodejs,tailwind,vite,docker,nginx,redis,ansible,ubuntu,redhat,obsidian,blender" />
   </a>
 </p>
 
